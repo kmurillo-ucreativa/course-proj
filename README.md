@@ -1,1 +1,1 @@
-# Ci-course-project
+# course-project
